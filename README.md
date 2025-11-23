@@ -25,13 +25,33 @@ Error Handling:
 
 ## Technologies Used
 
-Python, Pandas, Plotly, SQLite3, Tkinter, ttkbootstrap
+Python: The primary programming language.
+
+Pandas: Used for data manipulation and analysis.
+
+Plotly: Enables the creation of interactive and visually appealing graphs.
+
+SQLite3: The database management system for storing expense records.
+
+Tkinter and ttkbootstrap: Provide the graphical user interface for the desktop application.
 
 ## Implementation
 
 • DRY Method
 • OOP Principles
 • Simplicity and Robustness
+
+## Screenshots of the Program
+Starting Page:
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/b9760e39-fdb3-499a-af1c-e12a51bf3819)
+
+Main Page:
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/7e42c6e7-c25c-4bbe-89c9-b94c8230030c)
+
+
+Graphing Page:
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/a019a408-f0c0-4aa5-b42a-3ada1eb5b42a)
+
 
 ## Assessments
 
