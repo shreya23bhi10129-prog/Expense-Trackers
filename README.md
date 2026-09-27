@@ -53,10 +53,6 @@ Graphing Page:
 ![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/a019a408-f0c0-4aa5-b42a-3ada1eb5b42a)
 
 
-## Assessments
-
-(Self and Group details removed as requested modification)
-
 ## License
 
 MIT License
